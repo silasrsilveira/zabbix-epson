@@ -1,4 +1,4 @@
-!Toner.png
+![Toner.png](https://github.com/silasrsilveira/zabbix-epson/blob/main/Toner.png)
 
 ---
 
