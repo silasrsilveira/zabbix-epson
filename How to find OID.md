@@ -1,4 +1,4 @@
-Sure, here's the translation:
+https://github.com/silasrsilveira/zabbix-epson/blob/main/Toner.png
 
 ---
 
