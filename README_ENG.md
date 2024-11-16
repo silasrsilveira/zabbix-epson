@@ -1,5 +1,3 @@
-Claro! Aqui está o documento em inglês para a configuração dos níveis de toner da impressora EPSON WF-C878R no Zabbix:
-
 ### Markdown Document for Monitoring Toner Levels of EPSON WF-C878R Printer in Zabbix
 
 ```markdown
