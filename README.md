@@ -1,3 +1,6 @@
+#Info Grafana
+![](https://github.com/silasrsilveira/zabbix-epson/blob/6a01ce2d656da0daa79325d601ae895e02d9e61e/Img/info3.png)
+
 ### Documento Markdown para Monitoramento de Níveis de Toner da Impressora EPSON WF-C878R
 
 ```markdown
@@ -24,6 +27,10 @@
   ```plaintext
   iso.3.6.1.2.1.43.11.1.1.9.1.4
   ```
+
+#Info Zabbix
+![](https://github.com/silasrsilveira/zabbix-epson/blob/6a01ce2d656da0daa79325d601ae895e02d9e61e/Img/info2.png)
+
 
 ## Criar Template no Zabbix
 
