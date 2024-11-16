@@ -1,4 +1,4 @@
-https://github.com/silasrsilveira/zabbix-epson/blob/main/Toner.png
+!Toner.png
 
 ---
 
