@@ -1,4 +1,4 @@
-!Screenshot_2.png
+!https://github.com/silasrsilveira/zabbix-epson/blob/main/Img/info.png
 
 ---
 
