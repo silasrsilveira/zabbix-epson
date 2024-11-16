@@ -1,4 +1,4 @@
-![Exemplo]([URL_da_Imagem](https://github.com/silasrsilveira/zabbix-epson/blob/main/see%20info.png))
+!see info([URL_da_Imagem](https://github.com/silasrsilveira/zabbix-epson/blob/main/see%20info.png))
 
 ---
 
