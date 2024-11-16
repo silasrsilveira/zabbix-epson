@@ -1,4 +1,7 @@
-!https://github.com/silasrsilveira/zabbix-epson/blob/main/Img/info.png
+Info Linux #
+##
+![](https://github.com/silasrsilveira/zabbix-epson/blob/d5b5227701682ee878ca8fb1bc060e46fd86468d/Img/info.png)
+
 
 ---
 
