@@ -1,4 +1,5 @@
-<img src="[URL_da_Imagem]([https://github.com/silasrsilveira/zabbix-epson/blob/main/see%20info.png](https://github.com/silasrsilveira/zabbix-epson/blob/b85be2cc56a6d13980864f76ffbc01bc62a4f6c7/see%20info.png))" alt="Exemplo">
+!Screenshot_2.png
+
 ---
 
 To obtain the exact OIDs for your EPSON WorkForce Pro WF-C878R printer, I recommend using an SNMP management tool, such as `snmpwalk`, to explore the printer's MIB and identify the available OIDs. Here is an example of how you can do this:
